@@ -15,4 +15,4 @@
 ### 🌐 Meus Projetos:
 [![OneAgile](https://img.shields.io/badge/-OneAgile-00BFFF?logo=google-chrome&logoColor=white)](https://oneagile.com.br/)
 [![DelíciasGE](https://img.shields.io/badge/-DelíciasGE-FF69B4?logo=google-chrome&logoColor=white)](https://deliciasge.com.br/)
-[![My OneAgile](https://img.shields.io/badge/-OneAgile%20Login-9370DB?logo=google-chrome&logoColor=white)](https://my.oneagile.com.br/)
+[![My OneAgile](https://img.shields.io/badge/-My%20OneAgile-9370DB?logo=google-chrome&logoColor=white)](https://my.oneagile.com.br/)
